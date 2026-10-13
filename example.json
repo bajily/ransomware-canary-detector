@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "timestamp": "2026-10-13T11:00:00Z",
+      "host": "synthetic-workstation",
+      "actor": "synthetic-process",
+      "operation": "rename",
+      "path": "records/file0.txt",
+      "new_path": "records/file0.locked"
+    },
+    {
+      "timestamp": "2026-10-13T11:00:01Z",
+      "host": "synthetic-workstation",
+      "actor": "synthetic-process",
+      "operation": "rename",
+      "path": "records/file1.txt",
+      "new_path": "records/file1.locked"
+    },
+    {
+      "timestamp": "2026-10-13T11:00:02Z",
+      "host": "synthetic-workstation",
+      "actor": "synthetic-process",
+      "operation": "rename",
+      "path": "records/file2.txt",
+      "new_path": "records/file2.locked"
+    },
+    {
+      "timestamp": "2026-10-13T11:00:03Z",
+      "host": "synthetic-workstation",
+      "actor": "synthetic-process",
+      "operation": "rename",
+      "path": "records/file3.txt",
+      "new_path": "records/file3.locked"
+    },
+    {
+      "timestamp": "2026-10-13T11:00:04Z",
+      "host": "synthetic-workstation",
+      "actor": "synthetic-process",
+      "operation": "rename",
+      "path": "records/file4.txt",
+      "new_path": "records/file4.locked"
+    },
+    {
+      "timestamp": "2026-10-13T11:00:05Z",
+      "host": "synthetic-workstation",
+      "actor": "synthetic-process",
+      "operation": "rename",
+      "path": "records/file5.txt",
+      "new_path": "records/file5.locked"
+    },
+    {
+      "timestamp": "2026-10-13T11:00:06Z",
+      "host": "synthetic-workstation",
+      "actor": "synthetic-process",
+      "operation": "rename",
+      "path": "records/file6.txt",
+      "new_path": "records/file6.locked"
+    },
+    {
+      "timestamp": "2026-10-13T11:00:07Z",
+      "host": "synthetic-workstation",
+      "actor": "synthetic-process",
+      "operation": "rename",
+      "path": "records/file7.txt",
+      "new_path": "records/file7.locked"
+    },
+    {
+      "timestamp": "2026-10-13T11:00:08Z",
+      "host": "synthetic-workstation",
+      "actor": "synthetic-process",
+      "operation": "rename",
+      "path": "records/file8.txt",
+      "new_path": "records/file8.locked"
+    },
+    {
+      "timestamp": "2026-10-13T11:00:09Z",
+      "host": "synthetic-workstation",
+      "actor": "synthetic-process",
+      "operation": "rename",
+      "path": "records/file9.txt",
+      "new_path": "records/file9.locked"
+    },
+    {
+      "timestamp": "2026-10-13T11:00:15Z",
+      "host": "synthetic-workstation",
+      "actor": "synthetic-process",
+      "operation": "write",
+      "path": "records/canary.txt"
+    }
+  ]
+}
